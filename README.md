@@ -12,7 +12,7 @@
 
 **Github 주소**
 
-[**https://github.com/Team-KHPT/Project_Kim**](https://github.com/Team-KHPT/Project_Kim)
+[**https://github.com/Team-KHPT/Project_Kim**](https://github.com/Team-KHPT/project-kim)
 
 **서비스 가이드**
 
@@ -28,7 +28,7 @@
 
 저희는 현재 특성화 고등학교에 다니며 이제 취업을 준비하는 시기가 왔습니다. 현재 저희의 가장 큰 관심사인 **'취업'**과 가장 핫한 **'ChatGPT'**를 결합한 결과물이 바로 이 김비서 프로젝트 입니다.
 
-![취업 정보를 찾기 어렵다는 자료](resources/Untitled.png)
+![취업 정보를 찾기 어렵다는 자료](https://raw.githubusercontent.com/Team-KHPT/Team-KHPT.github.io/main/resources/Untitled.png)
 
 취업 정보를 찾기 어렵다는 자료
 
@@ -100,25 +100,25 @@
 
 - 사용자가 kim.gbsw.hs.kr에 접속하면 처음 화면이 나옵니다.
 
-![처음 화면, 더 나은 정보를 제공하기 위해 채팅 예시를 보여줍니다.](resources/Untitled%201.png)
+![처음 화면, 더 나은 정보를 제공하기 위해 채팅 예시를 보여줍니다.](https://raw.githubusercontent.com/Team-KHPT/Team-KHPT.github.io/main/resources/Untitled%201.png)
 
 처음 화면, 더 나은 정보를 제공하기 위해 채팅 예시를 보여줍니다.
 
 - 가이드에 따라 채팅을 작성하면 채팅 전체가 백엔드로 전달되어 저장이 됩니다.
 
-![대화를 진행하면 사용자를 분석하여 회사 채용 정보가 표시됩니다.](resources/Untitled%202.png)
+![대화를 진행하면 사용자를 분석하여 회사 채용 정보가 표시됩니다.](https://raw.githubusercontent.com/Team-KHPT/Team-KHPT.github.io/main/resources/Untitled%202.png)
 
 대화를 진행하면 사용자를 분석하여 회사 채용 정보가 표시됩니다.
 
 - 채팅 하기 전 사전 정보를 작성하고 사전 정보를 수정할 수 있습니다.
 
-![사전 정보 수정 페이지, 분석 정확도를 높혀 주는 사전 정보를 수정할 수 있습니다.](resources/Untitled%203.png)
+![사전 정보 수정 페이지, 분석 정확도를 높혀 주는 사전 정보를 수정할 수 있습니다.](https://raw.githubusercontent.com/Team-KHPT/Team-KHPT.github.io/main/resources/Untitled%203.png)
 
 사전 정보 수정 페이지, 분석 정확도를 높혀 주는 사전 정보를 수정할 수 있습니다.
 
 - 채팅을 통해 사용자의 정보가 수집 되면 오른쪽에 회사 채용 정보가 표시됩니다.
 
-![상세 정보화면, 회사들의 정보를 클릭하면 상세 정보를 볼 수 있습니다.](resources/Untitled%204.png)
+![상세 정보화면, 회사들의 정보를 클릭하면 상세 정보를 볼 수 있습니다.](https://raw.githubusercontent.com/Team-KHPT/Team-KHPT.github.io/main/resources/Untitled%204.png)
 
 상세 정보화면, 회사들의 정보를 클릭하면 상세 정보를 볼 수 있습니다.
 
